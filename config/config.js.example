@@ -1,0 +1,10 @@
+export default {
+  "development": {
+    "host": "express-postgres",
+    "database": "auth-service-db",
+    "username": "postgres",
+    "password": "password",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
